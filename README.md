@@ -6,5 +6,5 @@ automated headless browser testing and implement CI/CD using travis and extensiv
 
 I made this to showcase my strengths in certain crucial aspects of web dev in Nodejs applications. 
 
-This project has only been made to show the best of my skills for my job-seeking purposes and is not allowed to anyone for any kind of use but only to view.
+This project has been made to only show the best of my skills for my job-seeking purposes and is not allowed to anyone for any kind of use but only to view.
 Hence, this has been written in a particularly suitable manner.
